@@ -1,4 +1,6 @@
-rasa==3.6.19
-rasa-sdk==3.6.2
-python-dotenv==1.0.1
-psycopg2-binary==2.9.6
+rasa==3.6.2
+rasa-sdk==3.6.0
+psycopg2-binary
+numpy
+scipy
+pandas
